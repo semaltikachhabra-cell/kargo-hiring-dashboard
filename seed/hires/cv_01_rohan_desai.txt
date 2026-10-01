@@ -1,0 +1,27 @@
+Rohan Desai
+rohan.desai.dev@gmail.com  |  +91 98204 37810  |  Mumbai, Maharashtra  |  github.com/rdesai-dev
+PROFESSIONAL SUMMARY
+Backend and systems engineer with 7 years of combined experience in logistics operations and software engineering. Began career in freight operations at a family CHA firm before transitioning to tech. Experienced in building internal tooling, leading small engineering teams, and working directly with operational users to close the gap between what software promises and what field teams actually need. Comfortable as the most senior engineer in the room.
+EXPERIENCE
+Senior Software Engineer   |   Clearfly Tech Solutions Pvt. Ltd., Mumbai   |   Jan 2022 – Present
+–   Lead engineer on Clearfly's core freight tracking platform, serving 40+ freight forwarder clients across India and the Middle East
+–   Designed and built a Bill of Lading verification module from scratch — identified the repetitive manual check process, built a working prototype over a weekend, had 30 colleagues using it within the first month; now a core platform feature
+–   Led migration from a legacy third-party data vendor after identifying reliability issues — completed under time pressure with no data loss and a 60% reduction in processing lag
+–   Introduced structured code review and a lightweight on-call rotation; reduced P1 production incidents by 40% in 6 months
+–   Work directly with freight forwarding operations teams during integration rollouts — translate field requirements into engineering spec without a product layer
+–   Mentored two junior engineers; one promoted to mid-level within 14 months
+Software Engineer   |   Clearfly Tech Solutions Pvt. Ltd., Mumbai   |   Jun 2020 – Dec 2021
+–   Core backend development on shipment status, document management, and carrier notification modules in Python and PostgreSQL
+–   Built REST APIs for customer-facing tracking portal — reduced customer support queries related to shipment status by 35%
+–   Worked closely with the operations team at two early freight forwarder clients to map their workflow onto the platform during onboarding
+–   Diagnosed and resolved a critical PostgreSQL indexing issue causing query timeouts during peak hours — identified root cause in 3 hours, fixed and deployed same day
+Operations Executive   |   Desai CHA & Logistics Pvt. Ltd., Nhava Sheva, JNPT   |   Jul 2017 – Mar 2020
+–   Managed end-to-end import/export documentation for 180+ shipments monthly — Bills of Lading, Shipping Bills, Certificates of Origin, LC documentation, and customs clearance coordination
+–   Coordinated daily with shipping lines, ICD terminal operators, port authorities, and customs officials on clearance timelines and holds
+–   Built a shipment tracking and status update system in Excel after finding that the team had no reliable way to know where each shipment stood; adopted across the 12-member operations team within two weeks
+–   Handled an 18-month period of significantly increased documentation volume during the company's expansion into air freight — no additional headcount added, managed through process redesign
+–   Liaised with the DGFT office on MEIS and SEIS licence applications for three exporter clients
+EDUCATION
+B.E., Electronics Engineering   |   VJTI Mumbai   |   2013–2017   |   First Class
+CERTIFICATIONS & SKILLS
+AWS Solutions Architect – Associate (2022)  ·  Python  ·  PostgreSQL  ·  FastAPI  ·  Redis  ·  Docker  ·  Kubernetes  ·  AWS (EC2 / S3 / RDS / Lambda)  ·  REST API design  ·  Git  ·  CI/CD (GitHub Actions)  ·  Grafana  ·  Prometheus

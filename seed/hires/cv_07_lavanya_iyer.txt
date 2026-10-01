@@ -1,0 +1,25 @@
+Lavanya Iyer
+lavanya.iyer.pm@gmail.com  |  +91 98876 12340  |  Bengaluru  |  linkedin.com/in/lavanyaiyer
+Summary
+Product Manager with 2 years in PM roles, preceded by 3 years in supply chain planning and carrier operations at a national 3PL. Domain-native understanding of freight forwarder and logistics operator workflows — built before product, not from a desk. Own product areas independently. Ship fast, kill what doesn't work, document why.
+Experience
+Product Manager   ·   Portwise Technologies Pvt. Ltd. (Series A, Port & Logistics SaaS), Bengaluru   ·   Apr 2023 – Present
+—  Sole PM responsible for dock scheduling, carrier integration, and freight visibility product areas
+—  Shipped 6 features across 12 months; killed 2 after early usage data showed low adoption despite strong qualitative demand in discovery — redirected the sprint capacity to a workflow that showed 3x higher weekly active use within 30 days
+—  Running 3 ongoing discovery tracks in parallel with freight forwarder clients — led one session that uncovered a workflow mismatch in how carriers confirmed slot bookings; the resulting feature pivot reduced support tickets from that account by 60%
+—  Wrote the product's first formal API documentation in collaboration with the engineering lead — reduced integration timelines for new logistics system customers by 2 weeks
+—  Drafted and sent the post-mortem after a 4-hour platform outage — wrote the internal and customer-facing versions, ran the retrospective, and owned the follow-up action items to closure
+—  Last performance review note from engineering lead: "Lavanya is the first PM here who has made calls we trusted immediately. She doesn't hedge."
+Senior Supply Chain Analyst   ·   Mahindra Logistics Ltd., Chennai   ·   Sep 2021 – Mar 2023
+—  Managed carrier allocation, capacity planning, and exception management for 3 FMCG client accounts across South India — combined throughput of 800+ shipments monthly
+—  Built a daily visibility dashboard for the operations team tracking 500+ active shipments across carriers; started in Excel, migrated to Tableau after the team outgrew it; adopted by 2 other regional teams
+—  Ran a quarterly carrier performance review process for the first time at the branch — developed scorecard methodology, ran the first 2 review cycles, and renegotiated rates with 2 underperforming carriers based on data
+—  Led onboarding of a new FMCG client's inbound supply chain onto Mahindra's TMS — coordinated across the client's procurement, warehousing, and finance teams over 8 weeks; first shipment on time
+Supply Chain Analyst   ·   Mahindra Logistics Ltd., Chennai   ·   Jul 2020 – Aug 2021
+—  Demand planning, carrier scheduling, and exception management for 2 client accounts in last-mile delivery
+—  Handled daily coordination with 8 carrier partners on route planning, pickup scheduling, and delivery exception resolution
+—  Reduced unresolved delivery exceptions by 28% over 12 months by implementing a same-day triage process that hadn't existed before
+Education
+B.E., Industrial Engineering   ·   NIT Tiruchirappalli   ·   2016–2020   ·   CGPA 8.1/10   ·   Gold Medalist, Industrial Engineering batch
+Certifications & Tools
+APICS CSCP – Certified Supply Chain Professional (2022)  ·  Product Management Certification – Product School (2023)  ·  JIRA  ·  Figma  ·  Mixpanel  ·  SQL  ·  Tableau  ·  Notion  ·  Miro  ·  CargoWise One (working knowledge)  ·  SAP TM (user-level)

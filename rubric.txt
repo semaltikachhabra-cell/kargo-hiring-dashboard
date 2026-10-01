@@ -1,0 +1,88 @@
+KARGO HIRING RUBRIC — Product Manager (PM) and Senior Product Manager (SPM)
+Derived from the 8 past-hire profiles and their last performance ratings, not from the job descriptions.
+
+Calibration set
+  Exceeds Expectations : Rohan Desai, Sunita Krishnamurthy, Aditya Shetty, Meghna Tiwari, Lavanya Iyer
+  Meets Expectations   : Vikram Nair, Rahul Bose
+  Below Expectations   : Preetham Rao
+
+PATTERNS FOUND
+1. They did the operational work with their own hands before moving to a desk role.
+   Rohan ran 180+ shipments a month of BoL/customs paperwork at a CHA in JNPT; Sunita handled 200+ shipments a month of
+   documentation; Aditya handled berth and detention escalations at a JNPT terminal; Meghna resolved a customs hold
+   overnight; Lavanya ran carrier allocation for 800+ shipments a month. Vikram (HR-tech, research done through
+   interviews), Rahul (fintech marketing) and Preetham (integrated 3PL APIs but never worked inside an operation) did not.
+2. They noticed a gap nobody had asked them to fix, built the fix themselves, and peers adopted it without a mandate.
+   Rohan's Excel tracker was adopted by 12 people in two weeks and his weekend BoL prototype had 30 users in a month;
+   Sunita rebuilt the intake workflow over a weekend and the team kept it; Aditya's loss post-mortem became standard
+   practice; Meghna's 30-60-90 framework is used by the whole CS team; Lavanya's dashboard spread to 2 other teams.
+   The lower-rated hires' wins were assigned work done well (Vikram's features, Preetham's indexing work, Rahul's targets).
+3. They owned the outcome with no layer above them to catch mistakes.
+   Rohan translated field needs into specs "without a product layer"; Aditya ran the full enterprise cycle alone with
+   "no account manager layer"; Meghna had no escalation to management in 14 months; Lavanya was sole PM and "doesn't
+   hedge". Vikram worked inside a 4-person PM team presenting to the CTO; Preetham was one of 12 engineers on a team.
+4. They write down what failed and change how the team works because of it.
+   Aditya documented why a 4-month deal was lost and it became qualification practice; Lavanya killed 2 features on
+   usage data and wrote the outage post-mortem; Meghna wrote up an undocumented product limitation and ran the fix.
+   The Meets/Below profiles list only wins.
+
+------------------------------------------------------------
+ROLE: PM
+------------------------------------------------------------
+Criterion name: Hands-on operations exposure
+What a strong candidate looks like: Has personally done operational work in logistics, freight, supply chain or a
+similar field operation (handled shipments, documents, carriers, escalations, the floor) rather than only studying it
+through interviews or dashboards. Strong = named volumes or situations they handled themselves. Weak = only
+desk-based research, or a domain with no operational floor.
+Weight: 30
+Source: Rohan, Sunita, Aditya, Meghna, Lavanya (Exceeds) vs Vikram, Rahul, Preetham
+
+Criterion name: Self-started fixes that others adopted
+What a strong candidate looks like: Spotted a problem nobody assigned to them, built a working fix quickly (a tool,
+sheet, process or prototype), and peers or other teams adopted it on their own. Strong = says who adopted it and how
+fast. Weak = only delivered assigned features or targets, however well.
+Weight: 30
+Source: Rohan's tracker and BoL prototype, Sunita's weekend workflow, Meghna's framework, Lavanya's dashboard
+
+Criterion name: Ownership without a safety net
+What a strong candidate looks like: Has been the person accountable for an area with nobody senior checking their
+calls: sole owner, first hire in a function, ran the full cycle alone, handled crises without escalating. Weak = was
+one contributor inside a larger team or hierarchy.
+Weight: 20
+Source: Rohan, Aditya, Meghna, Lavanya vs Vikram (4-PM team) and Preetham (12-engineer team)
+
+Criterion name: Learns in public from what failed
+What a strong candidate looks like: Describes something that did not work (a lost deal, a killed feature, an outage, a
+bug) and what they documented or changed because of it. Weak = the CV lists only successes.
+Weight: 20
+Source: Aditya's lost-deal post-mortem, Lavanya's killed features and outage post-mortem, Meghna's limitation write-up
+
+------------------------------------------------------------
+ROLE: SPM
+------------------------------------------------------------
+Criterion name: Ownership without a safety net
+What a strong candidate looks like: Over several years has independently owned a whole area, function or P&L with
+no senior layer making the hard calls: built it from zero, was the most senior person in the room, made decisions
+and lived with the consequences. The bar is sustained, repeated independent ownership, not one project.
+Weight: 30
+Source: Rohan ("most senior engineer in the room"), Aditya (full cycle alone), Lavanya (sole PM) vs Vikram, Preetham
+
+Criterion name: Hands-on operations exposure
+What a strong candidate looks like: Has personally worked inside a logistics, freight, port or supply chain operation
+and can describe specific systems, volumes and breakdowns they handled. Strong = years inside the operation, not a
+short stint. Weak = understands the domain only as a vendor or analyst.
+Weight: 25
+Source: Rohan (CHA at JNPT), Sunita (forwarder documentation), Aditya (JNPT terminal), Lavanya (3PL carrier ops)
+
+Criterion name: Self-started fixes that others adopted
+What a strong candidate looks like: Has more than once built something unasked that became the team's or company's
+standard way of working (a module, a framework, a practice). For SPM, at least one example should have spread beyond
+their own team.
+Weight: 25
+Source: Rohan's BoL module became a core feature; Lavanya's dashboard spread to 2 teams; Meghna's framework
+
+Criterion name: Learns in public from what failed
+What a strong candidate looks like: Has led a post-mortem, killed their own work on evidence, or changed team
+practice after a failure, and says so plainly. Weak = only wins listed, or failures blamed on others.
+Weight: 20
+Source: Aditya, Lavanya, Meghna

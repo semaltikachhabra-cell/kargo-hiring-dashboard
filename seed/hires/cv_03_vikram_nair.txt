@@ -1,0 +1,27 @@
+Vikram Nair
+vikramnair.pm@gmail.com  |  +91 96321 88740  |  Bengaluru, Karnataka
+linkedin.com/in/vikramnairpm  |  Product School CPO Certification  |  Reforge Member 2023
+SUMMARY
+Product Manager with 3 years of post-MBA experience building and scaling enterprise SaaS products in the HR technology space. Track record of shipping high-adoption features across complex B2B platforms, managing multi-stakeholder roadmaps, and driving measurable business outcomes. Strong in discovery, PRD authoring, and working across engineering, design, and GTM teams. MBA from XLRI Jamshedpur.
+EXPERIENCE
+Product Manager   ·   Springboard HR Technologies (Series B, B2B SaaS, HR Tech), Bengaluru   ·   Jan 2022 – Present
+▪  Owns the candidate lifecycle management module — core product used by 400+ enterprise clients across manufacturing, BFSI, and IT/ITES sectors
+▪  Shipped 12 features over 18 months across ATS, structured assessment, and offer management; 3 features moved to premium tier, contributing $180K in incremental ARR
+▪  Increased feature adoption by 34% through a major UX redesign informed by 40+ user interviews across 6 enterprise accounts over 10 weeks
+▪  Reduced time-to-first-value for new enterprise accounts by 3 weeks by redesigning the onboarding checklist and in-app guidance flow
+▪  Built and socialised a PRD template and sprint review process adopted by the 4-person PM team — reduced cross-functional misalignment on scope ahead of builds
+▪  Quarterly roadmap presentations to CTO and VP Sales; managed competing stakeholder priorities across customer success, sales, and engineering throughout
+▪  Speaker at ProductBeats Bengaluru (Feb 2023) on enterprise SaaS discovery — how to run structured discovery with large accounts without slowing velocity
+Associate Product Manager   ·   Springboard HR Technologies, Bengaluru   ·   Jul 2020 – Dec 2021
+▪  Supported senior PMs on the recruiter dashboard and candidate scoring module — led user research synthesis, ran discovery interviews, and wrote feature specifications
+▪  Took full ownership of 4 features from spec to release; managed QA handoff, release communication, and post-launch tracking
+▪  Analysed support tickets and Intercom conversations to identify top friction points; resulting insights led to a settings redesign that reduced support volume by 22%
+▪  Collaborated with the data team to build a product analytics dashboard tracking activation, adoption, and retention across customer tiers
+MBA Summer Intern — Product & Strategy   ·   MindTree Consulting (Digital Practice), Bengaluru   ·   Apr 2019 – Jun 2019
+▪  Mapped product maturity across 12 mid-market SaaS clients; delivered a benchmarking report to the practice head
+▪  Pre-placement offer received; declined to pursue a product role in a SaaS product company post-MBA
+EDUCATION
+MBA, XLRI Jamshedpur   ·   2018–2020   ·   Marketing & Strategy
+B.Tech, Computer Science   ·   NIT Calicut   ·   2014–2018   ·   CGPA 8.2/10
+CERTIFICATIONS & SKILLS
+Product School CPO Certification (2021)  ·  Reforge Member (2022–23)  ·  JIRA  ·  Figma  ·  Mixpanel  ·  Amplitude  ·  SQL (working knowledge)  ·  Looker  ·  Hotjar  ·  JTBD framework  ·  Agile/Scrum  ·  OKR planning

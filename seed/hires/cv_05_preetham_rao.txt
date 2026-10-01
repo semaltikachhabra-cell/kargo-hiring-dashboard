@@ -1,0 +1,25 @@
+Preetham Rao
+preethamrao.dev@gmail.com  ·  +91 97148 20563  ·  Bengaluru  ·  github.com/preethamrao  ·  leetcode.com/preethamrao
+SKILLS
+Languages:  Python, Go (learning), SQL, Bash
+Frameworks & Libraries:  FastAPI, SQLAlchemy, Celery, Pydantic
+Databases:  PostgreSQL (advanced), Redis, DynamoDB (working knowledge)
+Infrastructure:  Docker, Kubernetes (EKS), AWS (EC2, S3, RDS, Lambda, SQS, CloudWatch), Terraform (basic)
+Practices:  REST API design, microservices, event-driven architecture, CI/CD (GitHub Actions, Jenkins), on-call incident management
+EXPERIENCE
+Software Engineer II (Backend)  —  Cartexa India Pvt. Ltd. (E-commerce, 3,200 employees), Bengaluru   (Jan 2022 – Present)
+-  Part of the 12-engineer Order Management Platform (OMP) team — responsible for the core order lifecycle, fulfilment orchestration, and merchant notification services
+-  Redesigned the OMP's PostgreSQL indexing strategy after identifying query degradation at scale — average query time reduced by 40% across the most-hit tables; change deployed with zero downtime via rolling migration
+-  Owns the API gateway service handling authentication, rate limiting, and request routing across 8 internal services — 99.95% uptime over 18 months
+-  Led the migration of 3 legacy batch jobs to an event-driven Celery pipeline — processing lag reduced from 4 hours to under 8 minutes
+-  Mentored 2 junior engineers; ran fortnightly 1:1s and code review sessions
+-  Part of the P1 on-call rotation — average time-to-resolve for P1 incidents: 22 minutes
+Software Engineer (Backend)  —  Cartexa India Pvt. Ltd., Bengaluru   (Jul 2019 – Dec 2021)
+-  Backend development on order creation, payment reconciliation, and returns workflows — services processing 2M+ daily events at peak
+-  Built an internal monitoring dashboard for order exception rates — surfaced a systemic coupon validation bug affecting 0.3% of orders, which was losing ₹12L/month; patched and deployed within 48 hours of identification
+-  Developed automated regression test suite for the payment integration layer — reduced QA cycle time by 30%
+-  Integrated with 3 third-party logistics providers (Delhivery, Bluedart, Ecom Express) via REST and SFTP APIs — shipping option routing, tracking webhook ingestion, and NDR management
+EDUCATION
+B.E., Computer Science   ·   RV College of Engineering (VTU), Bengaluru   ·   2015–2019   ·   CGPA 8.4/10
+CERTIFICATIONS & OTHER
+AWS Developer – Associate (2022)  ·  PostgreSQL Performance Tuning — Udemy (2021)  ·  Open source: 3 merged PRs to the FastAPI project (input validation edge cases, 2023)
