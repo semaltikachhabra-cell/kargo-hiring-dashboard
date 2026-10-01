@@ -2,6 +2,8 @@ import { db, type Candidate, type Criterion, type CriterionScore, type Role } fr
 import { geminiJSON } from './gemini';
 
 export const TOP_N = 5;
+// A candidate must also clear this score to be invited, so a small pool never invites weak fits.
+export const INVITE_MIN_SCORE = 50;
 
 // ---------- Step 1: separate personal details from CV content ----------
 
@@ -111,7 +113,7 @@ async function draftInvite(c: Candidate) {
   const scores = c.score_json?.[role] ?? [];
   return geminiJSON<{ brief: string; subject: string; body: string }>(
     `You help Arjun Mehta, founder of Kargo (logistics SaaS, Mumbai), hire a ${roleTitle(role)}.
-This candidate ranked in the top ${TOP_N} for the role.
+This candidate ranked in the top ${TOP_N} for the role and cleared the invite bar.
 
 1. "brief": exactly three sentences for Arjun: who this person is, why the system ranked them here (cite the
    strongest criteria), and the one thing to probe in the interview (their weakest criterion).
@@ -164,7 +166,7 @@ export async function refreshDrafts(role: Role) {
   for (let i = 0; i < ranked.length; i++) {
     const c = ranked[i];
     if (c.sent_at) continue; // never rewrite an email that already went out
-    const want = i < TOP_N ? 'invite' : 'rejection';
+    const want = i < TOP_N && scoreFor(c) >= INVITE_MIN_SCORE ? 'invite' : 'rejection';
     if (c.status === 'ready' && c.email_type === want) continue;
 
     if (want === 'invite') {

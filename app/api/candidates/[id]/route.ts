@@ -3,7 +3,7 @@ import { db, type Role } from '@/lib/supabase';
 import { refreshDrafts } from '@/lib/pipeline';
 
 export const runtime = 'nodejs';
-export const maxDuration = 60;
+export const maxDuration = 300;
 
 // Remove a candidate (e.g. a test upload) and re-rank their role.
 export async function DELETE(_req: Request, ctx: { params: Promise<{ id: string }> }) {

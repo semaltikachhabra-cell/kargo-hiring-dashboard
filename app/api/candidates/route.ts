@@ -21,7 +21,7 @@ export async function GET() {
       pm_score: c.pm_score,
       spm_score: c.spm_score,
       score_json: c.score_json,
-      brief: c.brief,
+      brief: personalise(c.brief, c.personal?.name),
       email_type: c.email_type,
       email_subject: c.email_subject,
       email_body: personalise(c.email_body, c.personal?.name),

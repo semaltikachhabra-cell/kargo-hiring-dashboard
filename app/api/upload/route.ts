@@ -4,7 +4,7 @@ import { fileToText } from '@/lib/parse';
 import { extractPersonal, getRubric, redact, refreshDrafts, scoreCV } from '@/lib/pipeline';
 
 export const runtime = 'nodejs';
-export const maxDuration = 60;
+export const maxDuration = 300;
 
 export async function POST(req: Request) {
   const form = await req.formData();

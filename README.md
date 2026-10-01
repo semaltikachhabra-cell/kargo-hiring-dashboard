@@ -16,8 +16,8 @@ and handles everything after his decision.
 | Trigger | Arjun uploads a CV and picks the role applied for (PM / SPM) | Dashboard |
 | 1. Extract | Name, email and phone are split out and stored privately. Everything after this step sees only the redacted CV. | Gemini Flash + regex |
 | 2. Score | Every CV is scored against **both** the PM and SPM rubrics: 0–10 per criterion, one-line evidence-based reason, weighted to 0–100 | Gemini Flash |
-| 3. Brief | Top 5 per role get a 3-sentence interview brief: who they are, why they ranked, what to probe | Gemini Flash |
-| 4. Draft | Top 5 get a personalised interview invite; everyone else gets a warm, specific rejection. Real name substituted from private storage. | Gemini Flash |
+| 3. Brief | Top 5 per role scoring 50+ get a 3-sentence interview brief: who they are, why they ranked, what to probe | Gemini Flash |
+| 4. Draft | Those same candidates get a personalised interview invite; everyone else gets a warm, specific rejection. Real name substituted from private storage. | Gemini Flash |
 | Output | Ranked dashboard with score breakdown, brief and editable draft. **Confirm & send** emails via Resend and marks the candidate as sent. | Next.js · Supabase · Resend |
 
 Rankings update as new CVs come in. If someone drops out of the top 5, their invite is replaced with a rejection

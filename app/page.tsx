@@ -158,7 +158,7 @@ export default function Dashboard() {
           </button>
         ))}
       </div>
-      <p className="hint">Ranked by {tab} rubric score. Top {TOP_N} get an interview brief and an invite draft; everyone else gets a personalised rejection. Nothing is sent until you click Send.</p>
+      <p className="hint">Ranked by {tab} rubric score. Top {TOP_N} scoring 50+ get an interview brief and an invite draft; everyone else gets a personalised rejection. Nothing is sent until you click Send.</p>
 
       {loadErr && <div className="panel" style={{ color: 'var(--bad)' }}>{loadErr}</div>}
       {!loadErr && ranked.length === 0 && <div className="panel empty">No {tab} candidates yet. Upload a CV above to start.</div>}
@@ -194,7 +194,7 @@ function CandidateCard(props: {
   const [sending, setSending] = useState(false);
   useEffect(() => { setSubject(c.email_subject ?? ''); setBody(c.email_body ?? ''); }, [c.email_subject, c.email_body]);
 
-  const isTop = rank <= TOP_N && c.email_type === 'invite';
+  const isTop = c.email_type === 'invite';
   const other: Role = role === 'PM' ? 'SPM' : 'PM';
   const scores = c.score_json?.[role] ?? [];
 
